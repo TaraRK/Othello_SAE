@@ -1,0 +1,1 @@
+Final Deep Learning project with Uzay Girit. Link here: https://deep-learning-mit.github.io/staging/blog/2023/sparse-autoencoders-for-othello/?fbclid=IwAR3ZIE1riBjB53s8n6YO39t-UQjojmA-K6Fth4MduC4V24uhMzH0DJw6U4M
